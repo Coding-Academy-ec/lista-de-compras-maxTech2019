@@ -1,0 +1,36 @@
+# Archivos de Python
+*.pyc
+*.pyo
+*.pyd
+__pycache__
+*.py[co]
+*.so
+
+# Carpetas de entorno virtual
+venv/
+*.venv
+env/
+ENV/
+
+# Archivos de Jupyter Notebook
+.ipynb_checkpoints
+
+# Archivos de configuración de IDE
+.vscode/
+.idea/
+
+# Archivos de construcción y distribución
+build/
+dist/
+*.egg-info/
+
+# Archivos de registro
+*.log
+
+# Archivos de base de datos
+*.sqlite
+
+# Otros archivos y carpetas que no deben estar en el repositorio
+.DS_Store
+*.swp
+*~
